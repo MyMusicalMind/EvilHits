@@ -16,7 +16,7 @@ Ferramentas: Photoshop PS5, Illustrator AI5, GUitar Pro 6, FLSTUDIO 12, Guitar R
 <img src="https://image.ibb.co/c6d4eQ/zz.png" width="300" height="300">
 <br><br>
 <p>Faixas: </p>
-<p>1. Thoth</p>
-<p>2. Karma Dance</p>
-<p>3. Little Magic</p>
+<p>1. Thoth | <a href="https://www.youtube.com/watch?v=7vXVDt21VzM">no youtube</a></p>
+<p>2. Karma Dance | <a href="https://www.youtube.com/watch?v=NGzAjuswFQY"> no youtube</a></p>
+<p>3. Little Magic | <a href="https://www.youtube.com/watch?v=p8tlcfBJGlE"> no youtube</a></p>
 
